@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MariaHr8
-- 👀 I’m interested in Web Development with JS
-- 🌱 I’m currently learning Node.js and React
-- 💞️ I’m looking to collaborate on internships and various projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning about React Framework
+- 💞️ I’m looking for inspirations and learning opportunities
 - 📫 How to reach me: via email mihristova01@gmail.com
 
 <!---
