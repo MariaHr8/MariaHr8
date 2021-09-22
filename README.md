@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
-<h3 align="center">A passionate student-to-be-developer from Bulgaria</h3>
+<h3 align="center">A passionate student (future developer) from Bulgaria</h3>
 
 - 🔭 I’m currently working on **an Astrology Web Application**
 
