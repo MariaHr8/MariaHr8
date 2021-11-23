@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mihristova01@gmail.com**
 
-<img align="right" width="100" height="100" src="https://github.com/MariaHr8/MariaHr8/blob/main/undraw_Programmer_re_owql.png">
+<img align="right" width=auto height="200" src="https://github.com/MariaHr8/MariaHr8/blob/main/undraw_Programmer_re_owql.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
