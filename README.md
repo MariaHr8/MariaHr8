@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">A passionate student (future developer) from Bulgaria</h3>
 
-- 🔭 I’m currently working on **an Astrology Web Application**
+- 🔭 I’m currently working on **Habit Tracking Application**
 
-- 🌱 I’m currently learning **React, Node.js, Webpack**
+- 🌱 I’m currently learning **C#, React**
 
-- 🤝 I’m looking for help with **Front-end development**
+- 🤝 I’m looking for help with **Application Development**
 
 - 📫 How to reach me **mihristova01@gmail.com**
 
