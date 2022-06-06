@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Habit Tracking Application**
 
-- 🌱 I’m currently learning **C#, React**
+- 🌱 I’m currently learning **C#, Machine Learning**
 
 - 🤝 I’m looking for help with **Application Development**
 
