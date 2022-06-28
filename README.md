@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Habit Tracking Application**
 
-- 🌱 I’m currently learning **C#, Machine Learning, Flutter**
+- 🌱 I’m currently learning **Unity, Machine Learning, Flutter**
 
 - 🤝 I’m looking for help with **Application Development**
 
