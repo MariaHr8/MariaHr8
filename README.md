@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on a **Music Sharing Application**
 
-- 🌱 I’m currently learning **Unity, Machine Learning, Flutter**
-
-- 🤝 I’m looking for help with **Application Development**
+- 🌱 I’m currently learning **SpringBoot, Machine Learning, MongoDB**
 
 - 📫 How to reach me **mihristova01@gmail.com**
 
